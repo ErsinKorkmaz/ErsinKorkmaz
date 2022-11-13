@@ -31,6 +31,6 @@
 <a href="https://instagram.com/ersinkrkmz_35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ersinkrkmz_35" height="30" width="40" /></a>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ersinkorkmaz&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="ersinkorkmaz" />
+<img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ersinkorkmaz&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="ersinkorkmaz" />
 <img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=ersinkorkmaz&show_icons=true&locale=en&theme=github_dark" alt="ersinkorkmaz" />
 <img align="right" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=ersinkorkmaz&theme=github-dark-blue" alt="ersinkorkmaz">
