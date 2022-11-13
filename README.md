@@ -1,14 +1,16 @@
-![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
+<img align="center" alt="banner" src="https://indoanalytica.com/static/images/bannerr.gif">
 
 <h1 align="center">Hi 👋, I'm Ersin</h1>
 <p align="center">
 <img alt="badge" src="https://img.shields.io/badge/C-004482?style=for-the-badge&logo=c&logoColor=white">
+<img alt="badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF">
+<img alt="badge" src="https://img.shields.io/badge/Haskell-473763?style=for-the-badge&logo=Haskell&logoColor=A14D8D">
 <img alt="badge" src="https://img.shields.io/badge/javascript-222222?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img alt="badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF">
+<img alt="badge" src="https://img.shields.io/badge/React-202020?style=for-the-badge&logo=React&logoColor=61DBFB">
 <img alt="badge" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF">
 <img alt="badge" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF">
-<img alt="badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF">
 </p>
 
 <p align="center"> 
