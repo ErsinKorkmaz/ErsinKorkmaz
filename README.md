@@ -13,8 +13,7 @@
 </p>
 
 <p align="center"> 
-
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img &nbsp align="right" alt="Coding" width="30%" class="profImg" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ersinkorkmaz&label=Profile%20views&color=0e75b6&style=flat" alt="ersinkorkmaz" /> </p>
 
