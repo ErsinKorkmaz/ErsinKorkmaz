@@ -19,12 +19,6 @@
 
 <p align="left"> <a href="https://twitter.com/ersinkrkmz_35" target="blank"><img src="https://img.shields.io/twitter/follow/ersinkrkmz_35?logo=twitter&style=for-the-badge" alt="ersinkrkmz_35" /></a> </p>
 
-- 🔭 I’m currently working on [PS_FP](https://github.com/ErsinKorkmaz/PS_FP)
-
-- 🌱 I’m currently learning **Haskell & Front-End**
-
-- 💬 Ask me about **C, Java, Python**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ersinkrkmz_35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ersinkrkmz_35" height="30" width="40" /></a>
