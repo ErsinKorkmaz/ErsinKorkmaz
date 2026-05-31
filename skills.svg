@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="476" viewBox="0 0 800 476">
+  <style>
+    text { font-family: ui-monospace, "JetBrains Mono", "SF Mono", Menlo, Consolas, monospace; }
+    @keyframes blink { 0%,49% { opacity: 1 } 50%,100% { opacity: 0 } }
+    .cursor { animation: blink 1s steps(1) infinite }
+    @keyframes tchip0 { 0%,0% { opacity: 0 } 2%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip0 { animation: tchip0 12s ease-out infinite; }
+    @keyframes tchip1 { 0%,1% { opacity: 0 } 3%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip1 { animation: tchip1 12s ease-out infinite; }
+    @keyframes tchip2 { 0%,2% { opacity: 0 } 4%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip2 { animation: tchip2 12s ease-out infinite; }
+    @keyframes tchip3 { 0%,2% { opacity: 0 } 4%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip3 { animation: tchip3 12s ease-out infinite; }
+    @keyframes tchip4 { 0%,3% { opacity: 0 } 5%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip4 { animation: tchip4 12s ease-out infinite; }
+    @keyframes tchip5 { 0%,4% { opacity: 0 } 6%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip5 { animation: tchip5 12s ease-out infinite; }
+    @keyframes tchip6 { 0%,5% { opacity: 0 } 7%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip6 { animation: tchip6 12s ease-out infinite; }
+    @keyframes tchip7 { 0%,5% { opacity: 0 } 7%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip7 { animation: tchip7 12s ease-out infinite; }
+    @keyframes tchip8 { 0%,6% { opacity: 0 } 8%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip8 { animation: tchip8 12s ease-out infinite; }
+    @keyframes tchip9 { 0%,7% { opacity: 0 } 9%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip9 { animation: tchip9 12s ease-out infinite; }
+    @keyframes tchip10 { 0%,8% { opacity: 0 } 10%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip10 { animation: tchip10 12s ease-out infinite; }
+    @keyframes tchip11 { 0%,8% { opacity: 0 } 10%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip11 { animation: tchip11 12s ease-out infinite; }
+    @keyframes tchip12 { 0%,9% { opacity: 0 } 11%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip12 { animation: tchip12 12s ease-out infinite; }
+    @keyframes tchip13 { 0%,10% { opacity: 0 } 12%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip13 { animation: tchip13 12s ease-out infinite; }
+    @keyframes tchip14 { 0%,11% { opacity: 0 } 13%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip14 { animation: tchip14 12s ease-out infinite; }
+    @keyframes tchip15 { 0%,11% { opacity: 0 } 13%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip15 { animation: tchip15 12s ease-out infinite; }
+    @keyframes tchip16 { 0%,12% { opacity: 0 } 14%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip16 { animation: tchip16 12s ease-out infinite; }
+    @keyframes tchip17 { 0%,13% { opacity: 0 } 15%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip17 { animation: tchip17 12s ease-out infinite; }
+    @keyframes tchip18 { 0%,14% { opacity: 0 } 16%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip18 { animation: tchip18 12s ease-out infinite; }
+    @keyframes tchip19 { 0%,14% { opacity: 0 } 16%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip19 { animation: tchip19 12s ease-out infinite; }
+    @keyframes tchip20 { 0%,15% { opacity: 0 } 17%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip20 { animation: tchip20 12s ease-out infinite; }
+    @keyframes tchip21 { 0%,16% { opacity: 0 } 18%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip21 { animation: tchip21 12s ease-out infinite; }
+    @keyframes tchip22 { 0%,17% { opacity: 0 } 19%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip22 { animation: tchip22 12s ease-out infinite; }
+    @keyframes tchip23 { 0%,17% { opacity: 0 } 19%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip23 { animation: tchip23 12s ease-out infinite; }
+    @keyframes tchip24 { 0%,18% { opacity: 0 } 20%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip24 { animation: tchip24 12s ease-out infinite; }
+    @keyframes tchip25 { 0%,19% { opacity: 0 } 21%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip25 { animation: tchip25 12s ease-out infinite; }
+    @keyframes tchip26 { 0%,20% { opacity: 0 } 22%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip26 { animation: tchip26 12s ease-out infinite; }
+    @keyframes tchip27 { 0%,20% { opacity: 0 } 22%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip27 { animation: tchip27 12s ease-out infinite; }
+    @keyframes tchip28 { 0%,21% { opacity: 0 } 23%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip28 { animation: tchip28 12s ease-out infinite; }
+    @keyframes tchip29 { 0%,22% { opacity: 0 } 24%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip29 { animation: tchip29 12s ease-out infinite; }
+    @keyframes tchip30 { 0%,23% { opacity: 0 } 25%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip30 { animation: tchip30 12s ease-out infinite; }
+    @keyframes tchip31 { 0%,23% { opacity: 0 } 25%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip31 { animation: tchip31 12s ease-out infinite; }
+    @keyframes tchip32 { 0%,24% { opacity: 0 } 26%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip32 { animation: tchip32 12s ease-out infinite; }
+    @keyframes tchip33 { 0%,25% { opacity: 0 } 27%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip33 { animation: tchip33 12s ease-out infinite; }
+    @keyframes tchip34 { 0%,26% { opacity: 0 } 28%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip34 { animation: tchip34 12s ease-out infinite; }
+    @keyframes tchip35 { 0%,26% { opacity: 0 } 28%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip35 { animation: tchip35 12s ease-out infinite; }
+    @keyframes tchip36 { 0%,27% { opacity: 0 } 29%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip36 { animation: tchip36 12s ease-out infinite; }
+    @keyframes tchip37 { 0%,28% { opacity: 0 } 30%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip37 { animation: tchip37 12s ease-out infinite; }
+    @keyframes tchip38 { 0%,29% { opacity: 0 } 31%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip38 { animation: tchip38 12s ease-out infinite; }
+    @keyframes tchip39 { 0%,29% { opacity: 0 } 31%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip39 { animation: tchip39 12s ease-out infinite; }
+    @keyframes tchip40 { 0%,30% { opacity: 0 } 32%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
+    .tchip40 { animation: tchip40 12s ease-out infinite; }
+  </style>
+  <rect width="100%" height="100%" fill="#0a0a0b" rx="14" ry="14"/>
+  
+  <rect x="0" y="0" width="800" height="28" fill="#0a0a0b" rx="14" ry="14"/>
+  <rect x="0" y="14" width="800" height="14" fill="#0a0a0b"/>
+  <line x1="0" y1="28" x2="800" y2="28" stroke="#5a5a64" stroke-width="0.5" stroke-opacity="0.4"/>
+  <g opacity="0.55">
+    <circle cx="22" cy="14" r="5.5" fill="#ff5f57"/>
+    <circle cx="40" cy="14" r="5.5" fill="#febc2e"/>
+    <circle cx="58" cy="14" r="5.5" fill="#28c840"/>
+  </g>
+  <text x="400" y="15" fill="#5a5a64" font-family="ui-monospace, monospace" font-size="11" text-anchor="middle" dominant-baseline="middle">~/skills</text>
+
+  <!-- Command line -->
+  <text x="40" y="76.5" fill="#e78a53" font-size="14" dominant-baseline="middle">$</text>
+  <text x="62" y="76.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">which --skills</text>
+
+  <!-- Output marker -->
+  <text x="40" y="99.5" fill="#5a5a64" font-size="14" dominant-baseline="middle">→</text>
+  <text x="62" y="99.5" fill="#5a5a64" font-size="14" dominant-baseline="middle">41 matches</text>
+
+  <!-- Chips -->
+  <text class="tchip0" x="62" y="138.5" fill="#e78a53" font-size="14" dominant-baseline="middle">[ C ]</text>
+  <text class="tchip1" x="112" y="138.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ Java ]</text>
+  <text class="tchip2" x="187" y="138.5" fill="#e78a53" font-size="14" dominant-baseline="middle">[ Python ]</text>
+  <text class="tchip3" x="279" y="138.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ PowerShell ]</text>
+  <text class="tchip4" x="405" y="138.5" fill="#e78a53" font-size="14" dominant-baseline="middle">[ Bash ]</text>
+  <text class="tchip5" x="480" y="138.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ JavaScript ]</text>
+  <text class="tchip6" x="606" y="138.5" fill="#e78a53" font-size="14" dominant-baseline="middle">[ TypeScript ]</text>
+  <text class="tchip7" x="62" y="173.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ JSX ]</text>
+  <text class="tchip8" x="129" y="173.5" fill="#e78a53" font-size="14" dominant-baseline="middle">[ Haskell ]</text>
+  <text class="tchip9" x="229" y="173.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ HTML5 ]</text>
+  <text class="tchip10" x="313" y="173.5" fill="#e78a53" font-size="14" dominant-baseline="middle">[ CSS3 ]</text>
+  <text class="tchip11" x="388" y="173.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ React ]</text>
+  <text class="tchip12" x="472" y="173.5" fill="#e78a53" font-size="14" dominant-baseline="middle">[ Next.js ]</text>
+  <text class="tchip13" x="572" y="173.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ Tailwind CSS ]</text>
+  <text class="tchip14" x="62" y="208.5" fill="#e78a53" font-size="14" dominant-baseline="middle">[ Spring Boot ]</text>
+  <text class="tchip15" x="196" y="208.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ Gradle ]</text>
+  <text class="tchip16" x="288" y="208.5" fill="#e78a53" font-size="14" dominant-baseline="middle">[ MySQL ]</text>
+  <text class="tchip17" x="372" y="208.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ PostgreSQL ]</text>
+  <text class="tchip18" x="498" y="208.5" fill="#e78a53" font-size="14" dominant-baseline="middle">[ Postman ]</text>
+  <text class="tchip19" x="598" y="208.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ Windows ]</text>
+  <text class="tchip20" x="62" y="243.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ Windows Server ]</text>
+  <text class="tchip21" x="221" y="243.5" fill="#e78a53" font-size="14" dominant-baseline="middle">[ Active Directory ]</text>
+  <text class="tchip22" x="397" y="243.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ Microsoft Intune ]</text>
+  <text class="tchip23" x="573" y="243.5" fill="#e78a53" font-size="14" dominant-baseline="middle">[ Git ]</text>
+  <text class="tchip24" x="62" y="278.5" fill="#e78a53" font-size="14" dominant-baseline="middle">[ Microsoft Azure ]</text>
+  <text class="tchip25" x="230" y="278.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ Microsoft Entra ]</text>
+  <text class="tchip26" x="398" y="278.5" fill="#e78a53" font-size="14" dominant-baseline="middle">[ NixOS ]</text>
+  <text class="tchip27" x="482" y="278.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ Docker ]</text>
+  <text class="tchip28" x="574" y="278.5" fill="#e78a53" font-size="14" dominant-baseline="middle">[ Linux ]</text>
+  <text class="tchip29" x="62" y="313.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ Wireshark ]</text>
+  <text class="tchip30" x="179" y="313.5" fill="#e78a53" font-size="14" dominant-baseline="middle">[ Zed ]</text>
+  <text class="tchip31" x="246" y="313.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ LaTeX ]</text>
+  <text class="tchip32" x="330" y="313.5" fill="#e78a53" font-size="14" dominant-baseline="middle">[ Markdown ]</text>
+  <text class="tchip33" x="439" y="313.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ Obsidian ]</text>
+  <text class="tchip34" x="548" y="313.5" fill="#e78a53" font-size="14" dominant-baseline="middle">[ Zotero ]</text>
+  <text class="tchip35" x="640" y="313.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ Office ]</text>
+  <text class="tchip36" x="62" y="348.5" fill="#e78a53" font-size="14" dominant-baseline="middle">[ Arduino ]</text>
+  <text class="tchip37" x="162" y="348.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ Raspberry Pi ]</text>
+  <text class="tchip38" x="304" y="348.5" fill="#e78a53" font-size="14" dominant-baseline="middle">[ Microsoft PowerApps ]</text>
+  <text class="tchip39" x="505" y="348.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ Microsoft SharePoint ]</text>
+  <text class="tchip40" x="62" y="383.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ Back-End-WebentwicklungBack-End-Webentwicklung ]</text>
+  
+
+  <!-- Trailing prompt + cursor -->
+  <text x="40" y="437.5" fill="#e78a53" font-size="14" dominant-baseline="middle">$</text>
+  <rect class="cursor" x="62" y="429" width="8" height="15" fill="#e7e7ea"/>
+</svg>
